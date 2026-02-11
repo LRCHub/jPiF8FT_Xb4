@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "WE ARE BACK",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-11T13:48:14.793057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Are Back",
+      "artist": "LFO",
+      "has_synced": false,
+      "path": "select/01_We_Are_Back_LFO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WE ARE BACK",
+      "artist": "KMNZ",
+      "has_synced": true,
+      "path": "select/02_WE_ARE_BACK_KMNZ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Are Back (Electronic Body Mix)",
+      "artist": "Terminal Choice",
+      "has_synced": false,
+      "path": "select/03_We_Are_Back_(Electronic_Body_Mix)_Terminal_Choice.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Are Back!",
+      "artist": "Terminal Choice",
+      "has_synced": true,
+      "path": "select/04_We_Are_Back!_Terminal_Choice.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Are Back (Jg Mix)",
+      "artist": "Terminal Choice",
+      "has_synced": false,
+      "path": "select/05_We_Are_Back_(Jg_Mix)_Terminal_Choice.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Are Back (Original Mix)",
+      "artist": "LFO",
+      "has_synced": false,
+      "path": "select/06_We_Are_Back_(Original_Mix)_LFO.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Are Back",
+      "artist": "LFO",
+      "has_synced": false,
+      "path": "select/07_We_Are_Back_LFO.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Are Back (Rockstarz remix)",
+      "artist": "Joachim Garraud",
+      "has_synced": false,
+      "path": "select/08_We_Are_Back_(Rockstarz_remix)_Joachim_Garraud.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WE ARE BACK",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_WE_ARE_BACK_KMNZ.txt"
+    }
+  ]
+}
